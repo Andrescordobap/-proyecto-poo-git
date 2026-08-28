@@ -1,5 +1,3 @@
-
-linterna
 public class linterna{
     private String color;
     private String intensidad;
