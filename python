@@ -1,0 +1,14 @@
+class empleado:
+    def__int__(self, nombre, cargo)
+    self.nombre = nombre
+    self cargo = cargo
+    
+    
+class Tarea 
+    def int (self,nombre,responsable)
+    self.nombre=nombre
+    self.responsable=responsable
+
+empleado =empleado("juan diego","ingeniero de soporte"):
+    Tarea= tarea("soporte nivel 3 con su usuario","juan diego")
+    print(empleado.nombre"_", Tarea.nombre)
